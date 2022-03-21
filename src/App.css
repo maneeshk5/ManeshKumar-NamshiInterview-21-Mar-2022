@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.currencyBtn{
+  margin-right: 5px;
+}
+.weatherBtn{
+  margin-left: 5px;
+}
+
+
+.currencyApp{
+  margin-top: 5%;
+}
